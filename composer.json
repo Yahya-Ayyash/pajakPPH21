@@ -1,0 +1,24 @@
+{
+    "type": "library",
+    "license": "prorietary",
+    "name": "PPH21calculator",
+    "authors": [
+        {
+            "name": "Yahya Ayyash",
+            "email": "ayyash479@gmail.com",
+            "homepage": "https://github.com/Yahya-Ayyash"
+        }
+    ],
+
+
+    "require": {
+    "monolog/monolog": "1.23.*"
+    },
+    "autoload": {
+        "psr-4": {
+        "ModernOOP\\StudiKasus\\PPH21\\": "Calculate/"
+        }
+        }
+        
+    }
+    
